@@ -1,0 +1,10 @@
+[
+  {
+    "id": "ann-1",
+    "title": "Important Update",
+    "message": "The symposium dates have been updated to 28–29 December 2026. Registration is open with free participant entry.",
+    "type": "info",
+    "isActive": true,
+    "createdAt": "2026-11-15T00:00:00Z"
+  }
+]
